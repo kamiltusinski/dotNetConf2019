@@ -1,0 +1,3 @@
+ACR - Azure Container Registries.
+az acr build -f ./NetConfApp/Dockerfile -t netconfwroclaw.azurecr.io/netconfapp:latest -r netconfwroclaw .
+
